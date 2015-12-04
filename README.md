@@ -5,4 +5,5 @@ Andy was here!
 Frode was here!
 =======
 Anders too!!! ;)
+Jøgga var her
 >>>>>>> origin/master
