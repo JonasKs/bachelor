@@ -1,8 +1,1 @@
-Hello
-Andy was here!
-<<<<<<< HEAD
-
-Frode was here!
-=======
-Anders too!!! ;)
->>>>>>> origin/master
+#Nettside til Bachelorprosjekt
